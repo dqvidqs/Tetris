@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\myfiles\myprojects\somegame\tetris\tetris\main.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\MyFiles\MyProjects\somegame\Tetris\Debug\Tetris.exe
